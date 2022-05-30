@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-module Mishina
+module Carson004
   module Constants
     OANDA_TOKEN_PATH = Rails.root.join('config/token.yml')
     CANDLE_FORMATS = {
